@@ -2,7 +2,7 @@
 
 An FPGA-based implementation of the classic Tron Light Cycle game, written in embedded C and running on a RISC-V (Nios V) processor. The game renders directly to VGA hardware, supports human vs. AI gameplay, and runs on both the **Terasic DE10-Lite** and **DE1-SoC** FPGA boards, as well as in CPUlator for development and debugging. 
 
-<img width="480" height="360" alt="VGAPixelBuffer" src="https://github.com/user-attachments/assets/43d5b489-2c15-49a6-b4a2-a1a529afdcd7" />
+![Tron_Cycle_Demo](https://github.com/user-attachments/assets/0795289f-c0a6-4f2d-85b6-d0d975ab141b)
 
 Figure 1: *VGA Pixel Buffer (0x08000000) on CPULator*
 
